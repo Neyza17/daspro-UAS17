@@ -45,7 +45,7 @@ public class UAS1C17 {
                                     }
                                     validInput17 = true;
                                 } else {
-                                    System.out.println("Input tidak valid. Skor harus positif atau nol.");
+                                    System.out.println("Tidak ada data yang bisa di tampilkan.");
                                 }
                             }
                         }
